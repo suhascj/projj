@@ -18,7 +18,7 @@ font-size:20px;
 
 </style>
 </head>
-<body background="images/2.jpg">
+<body background="2.jpg">
 <center>
 <form action="add_prod.php" method="post"><b><font color="black" size="20px">
 <i>Product In<br></i></b>
