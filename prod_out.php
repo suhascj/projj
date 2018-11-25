@@ -21,7 +21,7 @@ font-size:20px;
 
 </style>
 </head>
-<body background="images/2.jpg">
+<body background="2.jpg">
 <center>
 <form action="rmv_prod.php" method="post"><b><font color="black" size="20px">
 Product Out<br></b>
