@@ -19,7 +19,7 @@ width:1000px;
 
 </style>
 </head>
-<body background="images/4.jpg">
+<body background="4.jpg">
 <center>
 <table><tr><td><i><center>Company Inventory</td></tr></table><br><br><br><br><br>
 <br><br>
