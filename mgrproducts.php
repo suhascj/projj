@@ -27,7 +27,7 @@ color:white;
 border:1px solid #0;
 }
 </style>
-<body background="images/3.png">
+<body background="3.png">
 <center>
 
 
